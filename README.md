@@ -93,7 +93,7 @@ A command-line contact book built in Python with CRUD operations, JSON file hand
 
 Interactive web/Python application to track daily expenses, visualize monthly spending patterns, and manage budgets efficiently.
 
-<img src="https://github-readme-stats-rho-seven-30.vercel.app/api/pin/?username=rahulkr4536q&repo=expense-tracker-repo-name&theme=nord&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="expense-tracker-python" />
+<img src="https://github-readme-stats-rho-seven-30.vercel.app/api/pin/?username=rahulkr4536q&repo=expense-tracker-python&theme=nord&border_color=1f6feb&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="expense-tracker-python" />
 
 | Layer | Technology |
 |---|---|
